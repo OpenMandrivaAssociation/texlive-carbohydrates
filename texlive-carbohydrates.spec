@@ -1,6 +1,6 @@
 Name:		texlive-carbohydrates
 Version:	39000
-Release:	1
+Release:	2
 Summary:	Carbohydrate molecules with chemfig
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/carbohydrates
