@@ -3,7 +3,7 @@ Version:	39000
 Release:	2
 Summary:	Carbohydrate molecules with chemfig
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/carbohydrates
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/carbohydrates
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/carbohydrates.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/carbohydrates.doc.r%{version}.tar.xz
